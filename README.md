@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/92322613/156634960-59bd89e7-5e37-49c3-9fef-51a800687721.png" width="1000" height="250" />
+
 
 
 # Chat_App 📱
